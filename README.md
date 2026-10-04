@@ -29,3 +29,7 @@ Esta versão é um protótipo estático. Usuários, produtos, vendas e movimenta
 ## Compartilhar o catálogo
 
 A sessão permanece ativa quando a página é atualizada e termina ao escolher **Sair**. Na aba **Catálogo**, escolha **Baixar catálogo para enviar**. O aplicativo gera um arquivo HTML independente, somente para visualização, com os produtos, preços, disponibilidade e fotos cadastradas no momento da exportação. Envie esse arquivo; quem receber pode abri-lo sem login. Ele é uma cópia e não atualiza automaticamente quando o estoque mudar.
+
+## Cadastro de vários produtos
+
+Na aba **Produtos**, escolha **Cadastro em lote** para preencher vários itens em linhas e salvar todos juntos, com código de barras, quantidade, custos, preço de venda e foto. Linhas vazias são ignoradas e códigos duplicados são avisados.
