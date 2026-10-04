@@ -5,7 +5,7 @@ Aplicativo de gestão em HTML/CSS/JavaScript, pronto para publicação como site
 ## Arquivos
 
 - `index.html`: aplicativo
-- `assets/wotz-logo.png`: imagem da loja
+- `assets/wotz-logo.jpg`: imagem da loja
 - `render.yaml`: configuração opcional do Render Blueprint
 
 ## Publicar no Render
@@ -26,3 +26,6 @@ Também é possível criar um **Static Site** manualmente usando:
 
 Esta versão é um protótipo estático. Usuários, produtos, vendas e movimentações ficam no armazenamento local do navegador; não são sincronizados entre computadores e não há autenticação protegida por servidor. Não use dados reais da loja até conectar o aplicativo a um backend com banco de dados e autenticação.
 
+## Compartilhar o catálogo
+
+Na aba **Catálogo**, escolha **Baixar catálogo para enviar**. O aplicativo gera um arquivo HTML independente, somente para visualização, com os produtos, preços, disponibilidade e fotos cadastradas no momento da exportação. Envie esse arquivo; quem receber pode abri-lo sem login. Ele é uma cópia e não atualiza automaticamente quando o estoque mudar.
