@@ -28,4 +28,4 @@ Esta versão é um protótipo estático. Usuários, produtos, vendas e movimenta
 
 ## Compartilhar o catálogo
 
-Na aba **Catálogo**, escolha **Baixar catálogo para enviar**. O aplicativo gera um arquivo HTML independente, somente para visualização, com os produtos, preços, disponibilidade e fotos cadastradas no momento da exportação. Envie esse arquivo; quem receber pode abri-lo sem login. Ele é uma cópia e não atualiza automaticamente quando o estoque mudar.
+A sessão permanece ativa quando a página é atualizada e termina ao escolher **Sair**. Na aba **Catálogo**, escolha **Baixar catálogo para enviar**. O aplicativo gera um arquivo HTML independente, somente para visualização, com os produtos, preços, disponibilidade e fotos cadastradas no momento da exportação. Envie esse arquivo; quem receber pode abri-lo sem login. Ele é uma cópia e não atualiza automaticamente quando o estoque mudar.
